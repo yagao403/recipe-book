@@ -1,9 +1,10 @@
-# Recipe name
+# Beef soup
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Beef
+- Onion
+- Red wine
 
 
 ## Instructions
